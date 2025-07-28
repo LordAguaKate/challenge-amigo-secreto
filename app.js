@@ -14,7 +14,7 @@ function agregarAmigo(){
         document.getElementById("amigo").value = "";
         listarAmigos(); 
     } else {
-        console.log("No se ingresó un nombre válido.");
+        alert("Por favor, ingresa un nombre o alias.");
     }
 }
 
