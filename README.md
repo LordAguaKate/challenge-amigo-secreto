@@ -42,7 +42,11 @@ challenge-amigo-secreto/
 2. **Abre el proyecto:**
    - Puedes abrir el archivo `index.html` directamente en tu navegador web favorito.
    - No requiere instalación de dependencias ni servidores adicionales.
-
+  
+>## Uso de manera virtual
+**Ingresa al siguiente enlace:**
+   - Puedes ingresar a [Amigo Secreto](https://lordaguakate.github.io/challenge-amigo-secreto/) y usarlo directamente en la web.
+     
 >## ¿Cómo funciona?
 
 1. Ingresa el nombre de cada participante y haz clic en "Añadir".
